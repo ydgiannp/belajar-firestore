@@ -1,0 +1,26 @@
+{
+  "name": "belajar-firestore",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.6",
+    "@nuxtjs/firebase": "^7.6.1",
+    "core-js": "^3.25.3",
+    "firebase": "^8.10.1",
+    "nuxt": "^2.15.8",
+    "vue": "^2.7.10",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@nuxt/kit": "3.0.0-rc.13",
+    "@nuxtjs/tailwindcss": "^5.3.3",
+    "postcss": "^8.4.17"
+  }
+}
